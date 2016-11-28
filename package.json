@@ -1,0 +1,16 @@
+{
+  "name": "facke_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customers.js",
+  "scripts": {
+    "start": "json-server api/api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^3.1.0",
+    "json-server": "^0.9.1"
+  }
+}
